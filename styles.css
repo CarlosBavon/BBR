@@ -1,0 +1,19 @@
+.main {
+    background: url(images/nathan-cima-4aqH2utAPAs-unsplash.jpg);
+    background-blend-mode: multiply;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100%;
+    font-family: "Niconne", cursive;
+    font-weight: 900;
+    font-style: normal;
+}
+.hero {
+    color: white;
+    text-align: center;
+    margin: 100px;
+    margin-top: 210px;
+    height: 408px;
+}
