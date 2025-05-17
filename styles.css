@@ -9,11 +9,32 @@
     font-family: "Niconne", cursive;
     font-weight: 900;
     font-style: normal;
+    font-size: x-large;
 }
 .hero {
     color: white;
     text-align: center;
     margin: 100px;
     margin-top: 210px;
-    height: 408px;
+}
+.con {
+    font-family: "Roboto Condensed", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+}
+footer {
+    background-color: #222;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+.social-icons a {
+    color: #fff;
+    margin: 0 10px;
+    font-size: 24px;
+    transition: color 0.3s ease;
+}
+.social-icons a:hover {
+    color: #1da1f2; /* Twitter blue */
 }
